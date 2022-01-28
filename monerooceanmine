@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /home/dragonflame/xmrig/build/
+
+sudo ./xmrig --coin=XMR -o gulf.moneroocean.stream:10128 -u 41nztj6cbs3MwR7nvmhbB1X32mppN9zu81GnbbrobwhoN4aWKEYE81Q5XCGAJ9usVB5GWmkYuxMj9UiueDawZdrbBAEbegN -p 1 
+

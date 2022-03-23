@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sudo tar -zcvf /home/Backup.tar.gz /home/dragonflame
+sudo tar -zcvf /home/Backup.tar.gz /home/
